@@ -1,7 +1,7 @@
 ## Hi! I'm Guilherme Mendes 👋
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning NestJS/Graphql
+- 🌱 I’m currently learning ReactJS/Micro-frontend
 - 😄 Pronouns: He/His
 
  <div>
