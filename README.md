@@ -1,6 +1,6 @@
 ## Hi! I'm Guilherme Mendes 👋
 
-- 🔭 I’m currently working on back-end
+- 🔭 I’m currently working on Full Stack
 - 🌱 I’m currently learning ReactJS/Micro-frontend
 - 😄 Pronouns: He/His
 
